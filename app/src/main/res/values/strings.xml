@@ -2,4 +2,9 @@
     <string name="app_name">My Android App</string>
     <string name="message">Have fun with Android!</string>
     <string name="login">Demo My Login Page</string>
+
+    <!--section 2 qn 1 strings-->
+    <string name="namePw"></string>
+    <string name="loginApp"></string>
+    <string name="cancel"></string>
 </resources>

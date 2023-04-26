@@ -212,7 +212,7 @@
     </LinearLayout>-->
 
     <!--Section 2 ws qn 1-->
-    <LinearLayout
+<!--    <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="horizontal">
@@ -221,7 +221,7 @@
             android:id="@+id/textView10"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Name:" />
+            android:text="@string/namePw" />
 
         <EditText
             android:id="@+id/editTextText3"
@@ -240,7 +240,7 @@
             android:id="@+id/textView"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Password:" />
+            android:text="@string/namePw" />
 
         <EditText
             android:id="@+id/editTextText"
@@ -260,12 +260,18 @@
             android:id="@+id/button"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Login" />
+            android:text="@string/loginApp" />
 
         <Button
             android:id="@+id/button2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Cancel" />
-    </LinearLayout>
+            android:text="@string/cancel" />
+    </LinearLayout>-->
+
+    <!--yeah-->
+
+
+
+
 </LinearLayout>
